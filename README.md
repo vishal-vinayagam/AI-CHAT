@@ -1,5 +1,6 @@
 # Free_AI — Local multi-model AI chat
 https://multiple-ai-chat.netlify.app/
+
 Lightweight local-first AI chat UI that connects to multiple providers via an OpenRouter-style service. Built with React + Vite, it preserves conversation history in the browser, supports switching models while keeping conversation context, and provides a simple abstraction for calling different model providers.
 
 ## Project description (short)
@@ -60,4 +61,5 @@ GitHub description (one-liner):
 LinkedIn blurb (1–2 sentences):
 
 > Free_AI is a lightweight React + Vite chat interface that connects to multiple LLM providers through an OpenRouter-style service. It stores conversation history locally, supports switching models while keeping conversation context, and is ideal for rapid prototyping and testing different AI models.
+
 
